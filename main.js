@@ -1,4 +1,3 @@
-console.log("Hello from JavaScript");
 //  creating school object
 let School = {
     name: " King's College",
